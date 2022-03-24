@@ -1,0 +1,146 @@
+data = [
+    {
+        "question": "JSON stands for _______.",
+       "answers": {
+            "a": "JavaScript Object Notation",
+            "b": "Java Object Notation",
+            "c": "JavaScript Object Normalization",
+            "d": "JavaScript Object-Oriented Notation"},
+        "correctAnswer": "a"
+    },
+    {
+        "question": "JSON is a _____ for storing and transporting data.",
+        "answers": {
+            "a": "xml format",
+            "b": "text format",
+            "c": "JavaScript",
+            "d": "php format"},
+        "correctAnswer": "b"
+    },
+    {
+        question: "The JSON syntax is a subset of the _____ syntax.",
+        answers: {
+            a: "Ajax",
+            b: "php",
+            c: "HTML",
+            d: "JavaScript"},
+        correctAnswer: "d"
+    },
+    {
+        question: "Who is the creator of JSON",
+        answers: {
+            a: "Alvin Alexander",
+            b: "Rasmus Lerdorf",
+            c: "Douglas Crockford",
+            d: "Jesse James Garrett"},
+        correctAnswer: "c"
+    },
+    {
+        question: "In the JSON syntax, data is separated by _____.",
+        answers: {
+            a: "Semicolons",
+            b: "Colons",
+            c: "Commas",
+            d: "Hyper"},
+        correctAnswer: "c"
+    },
+    {
+        question: "In the JSON syntax, array is written within in ____.",
+        answers: {
+            a: "Square brackets",
+            b: "Curley braces",
+            c: "Paratheses",
+            d: "None of the above"},
+        correctAnswer: "a"
+    },
+    {
+        question: "What is the file type for JSON files?",
+        answers: {
+            a: ".jsn",
+            b: ".js",
+            c: ".json",
+            d: ".jso"},
+        correctAnswer: "c"
+    },
+    {
+        question: "Which is not a JSON data type?",
+        answers: {
+            a: "number",
+            b: "string",
+            c: "array",
+            d: "date"},
+        correctAnswer: "d"
+    },
+    {
+        question: "A common use of JSON is ________.",
+        answers: {
+            a: "to update data into the database",
+            b: "to retrieve data from the database",
+            c: "to exchange data to/from a web server",
+            d: "None of the above"},
+        correctAnswer: "c"
+    },
+    {
+        question: "Which function is used to convert text into a JavaScript object?",
+        answers: {
+            a: "JSON.parse()",
+            b: "string.parse()",
+            c: "object.parse()",
+            d: "All of the above"},
+        correctAnswer: "a"
+    },
+    {
+        question: "Which function is used to convert a JavaScript object into a string?",
+        answers: {
+            a: "JSON.string()",
+            b: "JSON.stringify()",
+            c: "JSON.ToString()",
+            d: "All of the above"},
+        correctAnswer: "b"
+    },
+    {
+        question: "______ is a method for sending JSON data without worrying about cross-domain issues.",
+        answers: {
+            a: "JSON",
+            b: "json",
+            c: "JSONP",
+            d: "JSONP_Encode()"},
+        correctAnswer: "c"
+    },
+    {
+        question: "JSONP stands for _____.",
+        answers: {
+            a: "JSON with Packing",
+            b: "JSON with Padding",
+            c: "JSON with Parsing",
+            d: "JSON with Prefix"},
+        correctAnswer: "b"
+    },
+    {
+        question: "What is/are the parameter(s) of the method JSON.parse()?",
+        answers: {
+            a: "Text",
+            b: "Reviver",
+            c: "Object",
+            d: "Both Text and Reviver"},
+        correctAnswer: "d"
+    },
+    {
+        question: "JSON array elements can be access by ___.",
+        answers: {
+            a: "Name",
+            b: "Key",
+            c: "Value",
+            d: "Index"},
+        correctAnswer: "d"
+    },
+    {
+        "question": "Which number types are available in the JavaScript but not supported in the JSON?",
+        "answers": {
+            "a": "Fractional and Rational",
+            "b": "Infinity and Rational",
+            "c": "Rational and Irrational",
+            "d": "Infinity and NaN"},
+        "correctAnswer": "d"
+    }
+]
